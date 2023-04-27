@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if x == y:
+	print("doideira")
+
+
